@@ -2,6 +2,10 @@
 
 This is a testing project for learning Git
 
-Now were active on GitHub.com please like and share!
+
+We have now move to github please like and share!
+
+
+
 
 This is for testing purposed only!
